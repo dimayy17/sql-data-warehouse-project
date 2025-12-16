@@ -1,4 +1,4 @@
-'DataWarehouse' setelah memeriksa apakah sudah ada.
+/*'DataWarehouse' setelah memeriksa apakah sudah ada.
 Jika basis data tersebut ada, basis data tersebut akan dihapus dan dibuat ulang. Selain itu, skrip ini menyiapkan tiga skema
 di dalam basis data: 'perunggu', 'perak', dan 'emas'.
 
